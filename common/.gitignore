@@ -1,0 +1,12 @@
+# blender backup file
+*.blend1
+
+# gimp and Photoshop files
+*.xcf
+*.psd
+
+# Collada file
+*.dae
+
+# Image files
+*.png
